@@ -328,9 +328,10 @@ img.pull-right {
 .section-title{
     font-size: 18px;
     line-height: 28px;
-    margin:0;
+    margin:10;
     text-transform: uppercase;
-    font-weight: 300;
+    font-weight: 500;
+    color : #5c337f;
 }
 
 .section-sub-title{
@@ -338,7 +339,7 @@ img.pull-right {
     font-size: 36px;
     line-height: 46px;
     margin: 0 0 60px;
-    color: #212121;
+    color: #42e0d2;
 }
 
 /* Column title */
@@ -1957,12 +1958,15 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
     display: inline-block;
     margin: 20px 0 50px;
     width: 100%;
+    background color: #5c337f;
 }
 
 .isotope-nav ul {
     list-style: none;
     margin: 0;
     padding: 0;
+    background color: #5c337f;
+    color : #5c337f;
     border-bottom: 3px solid #ffb600;
 }
 
@@ -1972,7 +1976,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 }
 
 .isotope-nav ul li a {
-    color: #212121;
+    color: #5c337f;
     font-size: 14px;
     padding: 12px 25px;
     font-weight: 700;
@@ -1984,7 +1988,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 }
 
 .isotope-nav ul a.active {
-    color: #212121;
+    color: #42e0d2;
     background: #ffb600;
 }
 
@@ -2870,9 +2874,9 @@ figure.effect-bubba:hover p {
 .breadcrumb {
     padding: 0;
     background: none;
-    font-weight: 700;
+    font-weight: 400;
     text-transform: uppercase;
-    font-size: 12px;
+    font-size: 25px;
 }
 
 .breadcrumb a:hover {
