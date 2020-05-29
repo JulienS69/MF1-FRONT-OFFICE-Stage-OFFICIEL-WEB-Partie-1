@@ -228,6 +228,7 @@ img.pull-right {
     list-style: none;
     margin: 0;
     padding: 0;
+    color: #ffff;
 }
 
 .ts-padding {
@@ -2115,6 +2116,14 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
     color: #42e0d2 ;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+    background-color: #5c337f;
+    color: #fff;
+}
+
 .project-cat {
     background: #ffb600;
     display: inline-block;
@@ -2679,8 +2688,8 @@ img.testimonial-thumb {
 /*-- Copyright --*/
 
 .copyright {
-    background: #ffb600;
-    color: #111;
+    background: #5c337f;
+    color: #ffff;
     padding: 25px 0;
     position: relative;
     z-index: 1;
@@ -2723,16 +2732,16 @@ img.testimonial-thumb {
     width: 36px;
     height: 36px;
     line-height: 36px;
-    background: rgba(0, 0, 0, 0.9);
+    background-color: #5c337f;
     border-radius: 3px;
-    color: #ffb600;
+    color: #ffff ;
     font-weight: 700;
     font-size: 16px;
     padding: 0;
 }
 
 #back-to-top .btn.btn-primary:hover {
-    color: #fff;
+    color: #42e0d2;
 }
 
 
