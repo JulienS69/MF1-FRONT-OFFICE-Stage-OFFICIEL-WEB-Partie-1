@@ -1991,7 +1991,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
     padding: 0;
     background color: #5c337f;
     color : #5c337f;
-    border-bottom: 3px solid #ffb600;
+    border-bottom: 3px solid #42e0d2 ;
 }
 
 .isotope-nav ul li {
@@ -2013,7 +2013,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 
 .isotope-nav ul a.active {
     color: #42e0d2;
-    background: #ffb600;
+    background: #5c337f ;
 }
 
 /* Project Isotope Item */
@@ -2063,7 +2063,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
     right: 0;
     z-index: 1;
     padding: 5px 12px;
-    background: #ffb600;
+    background: #5c337f;
     color: #fff;
     opacity: 0;
     -webkit-transform: perspective(1px) scale3d(0, 0, 0);
@@ -2112,7 +2112,7 @@ ul.navbar-nav>li.header-get-a-quote:hover>a:after {
 }
 
 .project-item-title a:hover {
-    color: #ffb600;
+    color: #42e0d2 ;
 }
 
 .project-cat {
