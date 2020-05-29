@@ -421,7 +421,7 @@ img.pull-right {
 
 .form-control:focus {
     box-shadow: none;
-    border: 1px solid #ffb600;
+    border: 1px solid #42e0d2;
 }
 
 hr {
@@ -493,7 +493,7 @@ cite {
 }
 
 .btn-dark {
-    background: #42e0d2;
+    background: #23282d;
 }
 
 .btn-primary:hover,
@@ -2470,8 +2470,8 @@ img.testimonial-thumb {
 ================================================== */
 
 .subscribe {
-    background: #ffb600;
-    padding: 0;
+    background: #5c337f;
+    padding: 50px;
 }
 
 
@@ -2493,6 +2493,7 @@ img.testimonial-thumb {
     font-size: 24px;
     margin: 0;
 }
+
 
 
 /* Newsletter */
@@ -2527,18 +2528,20 @@ img.testimonial-thumb {
 
 .newsletter-form {
     float: left;
-    margin-left: 30px;
-    margin-top: 3px;
-    position: relative;
+    margin-left: 50px;
+    margin-top: 45px;
+    position: absolute;
 }
 
 .newsletter-form input {
-    background: none;
-    min-width: 450px;
+    font-size: 25px;
+    font-weight: 800;
+    background-color: #5c337f;
+    color : #42e0d2 ;
+    min-width: 800px;
     font-size: 12px;
-    text-transform: capitalize;
     height: 45px;
-    border: 1px solid rgba(255, 255, 255, .3);
+
 }
 
 
