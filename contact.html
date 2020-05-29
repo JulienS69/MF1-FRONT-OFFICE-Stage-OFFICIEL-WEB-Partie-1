@@ -204,6 +204,15 @@
    <div class="contact">
 <div id="container">
   <h2>Contactez-Nous</h2>
+  <style>
+  	h2 {
+  color: #5c337f ;
+  font-size: 32px;
+  font-weight: 700;
+  letter-spacing: 7px;
+  text-align: center;
+}
+</style>
   <form action="#" method="post" id="contact_form">
     <div class="name">
       <label for="name"></label>
@@ -215,9 +224,7 @@
     </div>
     <div class="subject">
       <label for="subject"></label>
-      <select type="name" placeholder="subject line" name="subject" id="subject_input" required>
-        <option disabled hidden selected>Sujet</option>
-      </select>
+      <input type="subject" placeholder="Sujet" name="subject" id="subject_input" required>
     </div>
     <div class="message">
       <label for="message"></label>
