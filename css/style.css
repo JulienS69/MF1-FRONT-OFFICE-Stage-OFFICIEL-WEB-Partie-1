@@ -58,7 +58,7 @@ h3,
 h4,
 h5,
 h6 {
-    color: #212121;
+    color: #0e0e0f;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
     text-rendering: optimizeLegibility;
@@ -2692,7 +2692,7 @@ img.testimonial-thumb {
 
 .copyright {
     background: #5c337f;
-    color: #ffff;
+    color: #42e0d2;
     padding: 25px 0;
     position: relative;
     z-index: 1;
@@ -2717,7 +2717,7 @@ img.testimonial-thumb {
 }
 
 .footer-menu ul li a:hover {
-    color: #fff;
+    color: #42e0d2;
 }
 
 #back-to-top {
